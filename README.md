@@ -36,3 +36,13 @@ a()
 b()
 
 ```
+
+
+# Big Picture:
+
+- Debugging code is isolated to single location
+- This makes it easy to change (or to disable)
+- user of a decorator doesn't worry about it
+- That's really the whole idea
+
+
